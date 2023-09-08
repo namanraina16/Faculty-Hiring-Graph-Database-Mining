@@ -1,0 +1,3 @@
+scripts/shortest_weighted_path.cql linguist-language=Cypher
+scripts/load_graph.cql linguist-language=Cypher
+scripts/well_ranked_region_specific_universities.cql linguist-language=Cypher
