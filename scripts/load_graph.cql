@@ -1,3 +1,7 @@
+//Reads the input CSV file that I created using Datasets 3 & 4 and based on the category of Type, 
+//it assigns the directed edges accordingly. It then initializes all the attributes associated 
+//with the nodes and edges and a small subset of the graph is displayed to the user.
+
 LOAD CSV WITH HEADERS FROM 'file:///main_new_data.csv' AS row
 
 MERGE (startNode:Node {name: row.U})
