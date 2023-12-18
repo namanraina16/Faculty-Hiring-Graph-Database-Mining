@@ -1,9 +1,9 @@
 # Graph Data and Pattern Mining
 Exploratory task for FORWARD Data Mining Group under Professor Kevin Chang.
 ## Table of Contents
-
-- [Description](#description)
 - [Directory Structure](#directory-structure)
+- [Description](#description)
+
   
 ## Directory Structure
 
