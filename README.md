@@ -14,5 +14,4 @@ Four different directories.
   
 - `/results`: CSV contains network DAG for Computer Science along with other attributes. The rest are resultant files displaying predicted university ranking based on two algorithms - Page Rank and Minimum Violation Rankings (a type of Monte Carlo Markov Chain algorithm) as described in the research paper.
 
-- `/scripts`: Python files to parse text files into CSV as well as to implement both algorithms. CQL files to run Cypher queries to load the network or find the shortest weighted path between nodes on the network using the Neo4j software.riable configurations
-## Description
+- `/scripts`: Python files to parse text files into CSV as well as to implement both algorithms. CQL files to run Cypher queries to load the network or find the shortest weighted path between nodes on the network using the Neo4j software.
