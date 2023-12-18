@@ -1,3 +1,5 @@
+//Returns the shortest variable lengths path from a starting node to other nodes that are within the same region and are ranked better than the starting node.
+
 MATCH (start:Node {name: "Memorial University of Newfoundland"})
 WITH start 
 MATCH (end:Node {region:start.region})
